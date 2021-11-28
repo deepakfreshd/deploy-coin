@@ -1,8 +1,6 @@
 # Deploying Smart Contract - Ceating Crypto currency.
 ##### _Deploying Smartcontract on Polygon matic network_
 
-
-### Things needed
 #### _Crypto Wallet_
 - Install metamask from [Metamask] and create wallet 
 - Request test matic tockens from [testnet token] using you address from Metamask
